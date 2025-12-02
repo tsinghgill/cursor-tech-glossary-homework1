@@ -1,0 +1,17 @@
+{
+  "name": "cursor-homework-1",
+  "version": "1.0.0",
+  "main": "glossary.js",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^4.0.14"
+  }
+}
